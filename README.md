@@ -32,6 +32,9 @@ Data originates from multiple transactional systems with varying structures and 
 - Power BI for reporting and analytics
 - Governance-aligned data engineering practices
 
+## 📂 Artifacts
+- **ETL Diagram:** ![Global Markets ETL](artifacts/rmb/global-markets-etl.png)
+
 ---
 
 ## 🔄 Solution Architecture
