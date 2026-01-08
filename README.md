@@ -85,3 +85,7 @@ Power BI dashboards provide:
 ## 🔐 Data Privacy
 All datasets in this repository are **simulated and anonymised**.  
 No proprietary, client, or bank-sensitive data is exposed.
+
+---
+🔙 Return to main portfolio: [Andiswa-Matai_Portfolio](https://github.com/AndiswaMatai/Andiswa-Matai_Portfolio)
+
