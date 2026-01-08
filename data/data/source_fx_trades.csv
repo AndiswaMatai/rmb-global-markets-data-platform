@@ -1,0 +1,4 @@
+trade_id,trade_date,asset_class,currency_pair,trade_amount,settlement_date,settlement_status
+FX001,2025-07-01,FX,USDZAR,1500000,2025-07-03,SETTLED
+FX002,2025-07-01,FX,EURZAR,980000,2025-07-03,FAILED
+FX003,2025-07-02,FX,GBPZAR,450000,2025-07-04,PENDING
