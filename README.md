@@ -52,7 +52,7 @@ The platform enables tracking of critical Global Markets operational metrics:
 - Governance-aligned data engineering practices
 
 ## 📂 Artifacts
-- **ETL Diagram:**     ![Global Markets ETL](etl/diagrams/Global_Markets_ETL.png)
+- ![Global Markets ETL](etl/diagrams/Global_Markets_ETL.png)
 ---
 
 ## 🔄 Solution Architecture
