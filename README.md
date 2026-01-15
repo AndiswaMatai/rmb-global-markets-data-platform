@@ -34,7 +34,17 @@ Data originates from multiple transactional systems with varying structures and 
 - Deliver executive and operational reporting
 
 ---
+## 📈 Key Metrics & KPIs
+The platform enables tracking of critical Global Markets operational metrics:
 
+- T+0 Reconciliation Rate
+- Unmatched Trade Count & Exposure Value
+- Aging Buckets (T+1, T+2, T+3+)
+- Late Settlement Rate
+- Estimated Penalty Exposure
+- Daily Operational Breaks by Asset Class
+
+---
 ## 🛠️ Technology Stack
 - SQL (Enterprise data platform)
 - Python & SQL-based transformations
