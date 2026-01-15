@@ -98,11 +98,17 @@ Reconciliations are performed using a snapshot-based comparison framework:
 ---
 
 ## 📊 Reporting
-Power BI dashboards provide:
+
+Power BI dashboards provide role-based reporting for Global Markets:
+
 - Daily operational KPIs
 - Unmatched and aging trends
 - Settlement and penalty visibility
 - Executive summaries
+
+📁 Sample dashboard wireframes are included:
+➡️ [View Power BI Dashboard Mockups](power%20bi/dashboard_wireframes)
+
 
 ---
 
