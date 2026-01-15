@@ -9,7 +9,7 @@ to demonstrate layout, KPIs, and analytical intent.
 ---
 
 ## 📊 Operations Daily View
-![Operations Daily View](operations_daily_view.png)
+![Operations Daily View](Dashboard.png)
 
 **Audience:** Operations Analysts, Team Leads  
 **Focus:** Same-day visibility and operational breaks
@@ -23,7 +23,7 @@ Key features:
 ---
 
 ## 📈 Reconciliation & Aging Analysis
-![Reconciliation & Aging](reconciliation_aging.png)
+![Reconciliation & Aging](Dashbaord_2.png)
 
 **Audience:** Operations Managers, Risk  
 **Focus:** Trend analysis and backlog management
@@ -37,7 +37,7 @@ Key features:
 ---
 
 ## 🧭 Executive Summary – Global Markets
-![Executive Summary](executive_summary.png)
+![Executive Summary](Dashbaord_2.png)
 
 **Audience:** Executives, Senior Management  
 **Focus:** Risk exposure and performance indicators
