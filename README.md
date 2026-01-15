@@ -107,7 +107,7 @@ Power BI dashboards provide role-based reporting for Global Markets:
 - Executive summaries
 
 📁 Sample dashboard wireframes are included:
-➡️ [View Power BI Dashboard Mockups](power%20bi/dashboard_wireframes)
+➡️ [View Power BI Dashboard Mockups](powerbi/dashboard_wireframes)
 
 ---
 
