@@ -6,7 +6,16 @@ This repository demonstrates an enterprise-scale data engineering and analytics 
 The solution enables **T+0 operational reporting**, **automated reconciliations**, **settlement monitoring**, and **penalty risk analysis**, while aligning to strict governance and audit standards.
 
 ---
+## 💡 Why This Matters
+Global Markets operations require accurate same-day (T+0) visibility to manage
+settlement risk, capital exposure, and regulatory compliance.
 
+This platform demonstrates how enterprise data engineering can:
+- Replace manual reconciliations with automated controls
+- Detect settlement failures early to reduce penalties
+- Provide trusted, auditable data to Operations, Risk, and Finance teams
+  
+---
 ## 🧩 Business Context
 Global Markets operations span multiple asset classes including:
 - Foreign Exchange (FX)
