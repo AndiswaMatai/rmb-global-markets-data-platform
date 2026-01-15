@@ -64,7 +64,17 @@ The solution follows a layered architecture:
 4. Curated datasets for reporting and regulatory use
 
 ---
+## 🔁 Reconciliation Logic (Conceptual)
+Reconciliations are performed using a snapshot-based comparison framework:
 
+- Compare current-day positions vs previous-day snapshots
+- Classify records as:
+  - **New** – Appears today, not previously
+  - **Cleared** – Previously present, now resolved
+  - **Unmatched** – Present in both but with key discrepancies
+- Apply aging based on trade date vs reporting date
+
+---
 ## 🧠 Key Components
 ### ETL Pipelines
 - Multi-source ingestion
