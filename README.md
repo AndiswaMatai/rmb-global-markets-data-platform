@@ -119,5 +119,12 @@ All datasets in this repository are **simulated and anonymised**.
 No proprietary, client, or bank-sensitive data is exposed.
 
 ---
+## 🔮 Future Enhancements
+- Near-real-time ingestion and monitoring
+- Automated anomaly detection on reconciliation breaks
+- SLA breach alerts for settlement failures
+- Workflow integration for break resolution
+  
+---
 🔙 Return to main portfolio: [Andiswa-Matai_Portfolio](https://github.com/AndiswaMatai/Andiswa-Matai_Portfolio)
 
