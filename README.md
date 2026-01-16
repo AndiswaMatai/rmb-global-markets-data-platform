@@ -56,7 +56,7 @@ The platform enables tracking of critical Global Markets operational metrics:
 
 ---
 ## 📁 Documentation & Governance
-Supporting documents including business context, KPI definitions, design decisions, and audit considerations.  
+    Supporting documents including business context, KPI definitions, design decisions, and audit considerations.  
 ➡️ [View Documentation & Governance](docs/docsDocumentation_and_Governance.pdf)
 ---
 
