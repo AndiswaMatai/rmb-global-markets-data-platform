@@ -7,7 +7,7 @@ It includes:
 - **ETL Diagrams**
   - Visual representations of multi-source ingestion, transformation & standardisation, reconciliation, and curated datasets for reporting and audit use.
   - All diagrams are simulated and anonymised.
-  ![Global Markets ETL](etl/diagrams/Global_Markets_ETL.png)
+  ![Global Markets ETL](etl/Global_Markets_ETL.png)
 
 
 - **SQL Scripts**
