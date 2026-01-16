@@ -2,9 +2,9 @@
 
 [![SQL](https://img.shields.io/badge/SQL-BigQuery%20%7C%20PostgreSQL-orange)](https://cloud.google.com/bigquery)
 [![Python](https://img.shields.io/badge/Python-ETL-green)](https://www.python.org/)
-[![PowerBI](https://img.shields.io/badge/BI-Power%20BI-blue)](https://powerbi.microsoft.com/)
+[![Power BI](https://img.shields.io/badge/BI-Power%20BI-blue)](https://powerbi.microsoft.com/)
 [![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)](https://github.com/features/actions)
-[![Data Governance](https://img.shields.io/badge/Governance-Audit%20%7C%20Controls-lightgrey)]()
+[![Governance](https://img.shields.io/badge/Governance-Audit%20%7C%20Controls-lightgrey)]()
 
 
 ## 📌 Overview
