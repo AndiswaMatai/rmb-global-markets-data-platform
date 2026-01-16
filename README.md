@@ -59,7 +59,7 @@ The platform enables tracking of critical Global Markets operational metrics:
 Supporting documents including business context, KPI definitions, design decisions, and audit considerations.  
 ➡️ [View Documentation & Governance](docs/Documentation_and_Governance.docx)
 
-
+---
 ## 🔄 Solution Architecture
 The solution follows a layered architecture:
 1. Source ingestion (FX, Bonds)
