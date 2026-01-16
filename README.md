@@ -50,10 +50,14 @@ The platform enables tracking of critical Global Markets operational metrics:
 - Python & SQL-based transformations
 - Power BI for reporting and analytics
 - Governance-aligned data engineering practices
-
+----
 ## 📂 Artifacts
 ![Global Markets ETL](etl/etl/Global_Markets_ETL.png)
 
+---
+📁 Documentation & Governance
+Supporting documents including business context, KPI definitions, design decisions, and audit considerations.  
+➡️ [View Documentation & Governance](docs/Documentation_and_Governance.docx)
 ---
 
 ## 🔄 Solution Architecture
