@@ -1,11 +1,10 @@
 # Power BI Dashboard Wireframes
 
-These mock dashboards illustrate how Global Markets operational and
+These dashboards illustrate how Global Markets operational and
 executive reporting is structured in the platform.
 
 All visuals are based on simulated and anonymised data and are intended
 to demonstrate layout, KPIs, and analytical intent.
-
 ---
 
 ## 📊 Operations Daily View
@@ -19,11 +18,10 @@ Key features:
 - Matched vs unmatched trades
 - Aging indicators (T+0 to T+3+)
 - Top unmatched trades
-
 ---
 
 ## 📈 Reconciliation & Aging Analysis
-![Reconciliation & Aging](Dashbaord_2.png)
+![Reconciliation & Aging](Dashbaord.png)
 
 **Audience:** Operations Managers, Risk  
 **Focus:** Trend analysis and backlog management
@@ -33,11 +31,10 @@ Key features:
 - Aging heatmaps by asset class
 - Daily unmatched trade trends
 - Asset class and date filters
-
 ---
 
 ## 🧭 Executive Summary – Global Markets
-![Executive Summary](Dashbaord_2.png)
+![Executive Summary](Dashbaord.png)
 
 **Audience:** Executives, Senior Management  
 **Focus:** Risk exposure and performance indicators
