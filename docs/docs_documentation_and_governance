@@ -1,0 +1,42 @@
+RMB Global Markets Data Platform
+Documentation & Governance
+________________________________________
+1. Business Context & Assumptions
+•	The platform supports Global Markets operations across multiple asset classes (FX, Bonds, Money Markets).
+•	Data originates from multiple transactional systems with varying formats and quality levels.
+•	Manual reconciliation processes historically introduced operational risk and reporting delays.
+•	Assumptions made in this platform include:
+o	Daily snapshots are sufficient for reconciliation (T+0).
+o	Trade identifiers are unique and stable across systems.
+o	KPIs are calculated based on current vs previous day snapshots.
+o	All data is simulated and anonymised for demonstration purposes.
+________________________________________
+2. KPI Definitions
+KPI	Definition	Calculation Logic	Frequency
+T+0 Reconciliation Rate	Percentage of trades matched same-day	(Cleared trades / Total trades) * 100	Daily
+Unmatched Trade Count	Number of trades not reconciled	Count of trades classified as Unmatched	Daily
+Exposure Value	Financial value associated with unmatched trades	Sum of Trade Value for unmatched trades	Daily
+Aging Buckets	Trades classified by age (T+1, T+2, T+3+)	Based on Trade Date vs Reporting Date	Daily
+Late Settlement Rate	Percentage of trades settled after expected date	(Late Settlements / Total Settlements) * 100	Daily
+Estimated Penalty Exposure	Potential penalty value from late settlements	Sum of penalty amounts for trades in breach	Daily
+Daily Operational Breaks	Count of discrepancies by asset class	Count by FX, Bonds, Money Markets	Daily
+________________________________________
+3. Design Decisions
+•	Layered Architecture: Source ingestion → Transformation → Reconciliation → Curated datasets → Reporting
+•	Snapshot-Based Reconciliation: Compares current-day vs previous-day snapshots to classify trades as New, Cleared, or Unmatched
+•	Role-Based Reporting: Power BI dashboards designed for Operations, Risk, and Executive users
+•	Reusability: ETL pipelines and reconciliation logic are modular and reusable across asset classes
+•	Auditability: All datasets maintain control totals, validations, and audit-friendly design
+________________________________________
+4. Data Governance & Audit Considerations
+•	Data Quality Checks: Validation of trade identifiers, timestamps, and monetary values
+•	Control Totals: Aggregates are reconciled to source system totals
+•	Audit Trails: Snapshots of reconciled and unmatched trades are maintained daily
+•	Compliance: The platform demonstrates adherence to enterprise governance and regulatory requirements
+•	Data Privacy: All datasets are simulated and anonymised — no proprietary or client-sensitive data is included
+________________________________________
+5. Folder Usage
+•	docs/ → Documentation & governance files
+•	etl/ → ETL scripts, SQL, and diagrams
+•	power_bi/ → Dashboard wireframes and mockups
+•	analytics/ → Supporting analysis scripts and notebooks
